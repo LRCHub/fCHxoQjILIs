@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "SHATTERED DREAMS",
+  "base_artist": "STARSET",
+  "createdAt": "2026-02-09T12:41:15.113926Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shattered Dreams - 12\" Extended Mix (2008 Digital Remaster)",
+      "artist": "Johnny Hates Jazz",
+      "has_synced": true,
+      "path": "select/01_Shattered_Dreams_-_12__Extended_Mix_(2008_Digital_Remaster)_Johnny_Hates_Jazz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shattered Dreams",
+      "artist": "Cunninlynguists",
+      "has_synced": true,
+      "path": "select/02_Shattered_Dreams_Cunninlynguists.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Field Of Shattered Dreams",
+      "artist": "House of Lords",
+      "has_synced": false,
+      "path": "select/03_Field_Of_Shattered_Dreams_House_of_Lords.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shattered Dreams",
+      "artist": "Johnny Hates Jazz",
+      "has_synced": true,
+      "path": "select/04_Shattered_Dreams_Johnny_Hates_Jazz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shattered Dreams - Acoustic Version",
+      "artist": "Johnny Hates Jazz",
+      "has_synced": false,
+      "path": "select/05_Shattered_Dreams_-_Acoustic_Version_Johnny_Hates_Jazz.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shattered Dreams (Acoustic Version)",
+      "artist": "Johnny Hates Jazz",
+      "has_synced": false,
+      "path": "select/06_Shattered_Dreams_(Acoustic_Version)_Johnny_Hates_Jazz.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shattered Dreams (Original Demo)",
+      "artist": "Johnny Hates Jazz",
+      "has_synced": true,
+      "path": "select/07_Shattered_Dreams_(Original_Demo)_Johnny_Hates_Jazz.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shattered Dreams - 12'' Extended Mix",
+      "artist": "Johnny Hates Jazz",
+      "has_synced": true,
+      "path": "select/08_Shattered_Dreams_-_12''_Extended_Mix_Johnny_Hates_Jazz.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shattered Dreams – 12” Extended Mix",
+      "artist": "Johnny Hates Jazz",
+      "has_synced": true,
+      "path": "select/09_Shattered_Dreams_–_12”_Extended_Mix_Johnny_Hates_Jazz.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shattered Dreams",
+      "artist": "Earl Sweatshirt",
+      "has_synced": true,
+      "path": "select/10_Shattered_Dreams_Earl_Sweatshirt.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Land of Shattered Dreams",
+      "artist": "DragonForce",
+      "has_synced": true,
+      "path": "select/11_Land_of_Shattered_Dreams_DragonForce.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shattered Dreams",
+      "artist": "Cyndi Lauper",
+      "has_synced": true,
+      "path": "select/12_Shattered_Dreams_Cyndi_Lauper.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shattered Dreams",
+      "artist": "UGK",
+      "has_synced": false,
+      "path": "select/13_Shattered_Dreams_UGK.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Shattered Dreams",
+      "artist": "Cyndi Lauper feat. Allen Toussaint",
+      "has_synced": true,
+      "path": "select/14_Shattered_Dreams_Cyndi_Lauper_feat._Allen_Toussaint.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Shattered Dreams (feat. Allen Toussaint)",
+      "artist": "Cyndi Lauper",
+      "has_synced": true,
+      "path": "select/15_Shattered_Dreams_(feat._Allen_Toussaint)_Cyndi_Lauper.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Shattered Dreams",
+      "artist": "Johnny Hates Jazz",
+      "has_synced": true,
+      "path": "select/16_Shattered_Dreams_Johnny_Hates_Jazz.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Shattered Dreams",
+      "artist": "Johnny Hates Jazz",
+      "has_synced": true,
+      "path": "select/17_Shattered_Dreams_Johnny_Hates_Jazz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SHATTERED DREAMS",
+      "artist": "STARSET",
+      "has_synced": false,
+      "path": "select/pl_01_SHATTERED_DREAMS_STARSET.txt"
+    }
+  ]
+}
